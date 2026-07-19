@@ -89,6 +89,41 @@ python data_loader.py
 python dashboard.py
 ```
 
+## Citation
+
+If you use this project in academic research, publications, educational
+materials, or derivative works, please cite the project.
+
+This repository includes a `CITATION.cff` file, so GitHub provides a
+**"Cite this repository"** button in the repository sidebar. You can use it
+to obtain citations in BibTeX, APA, and other supported formats.
+
+**Suggested citation:**
+
+Arain, S. U. R. (2026). Retail-Sales-Analytics-SQL (Version 1.0) [Software].
+<https://github.com/sanaurrehmanarain/Retail-Sales-Analytics-SQL>
+
+**Author:** Sana Ur Rehman Arain
+
+**Profession:** Data Scientist
+
+**GitHub:** <https://github.com/sanaurrehmanarain>
+
+**Contact:** <sana.arain.work@gmail.com>
+
+If you build upon this work, attribution is appreciated and helps others
+discover the original project.
+
+> **Note:** The MIT License requires that the original copyright
+> notice be retained in copies of the Software.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the
+[LICENSE](LICENSE) file for details.
+
 📧 Contact
 
 For any questions or feedback, feel free to reach out via LinkedIn.
